@@ -9,7 +9,6 @@ class Solution {
         return false;
         if(L1[1]<R2[1]||L2[1]<R1[1])
         return false;
-        
         return true;
     }
 };
